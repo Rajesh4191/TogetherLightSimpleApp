@@ -70,6 +70,7 @@ If you can't get this to work, see the [Troubleshooting](https://reactnative.dev
 
 # Learn More
 
+
 To learn more about React Native, take a look at the following resources:
 
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
@@ -78,3 +79,10 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 # TogetherLightSimpleApp
+
+# To Login 
+ Test credentials:
+ username : user123
+ password : password123
+
+# After Login success it will navigate to List screen which has the data and after clicking on each list it will navigate to details screen which shows particular details.
